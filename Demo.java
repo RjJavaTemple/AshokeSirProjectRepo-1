@@ -1,3 +1,3 @@
 public class ClassA{
-   System.out.println("Hello  Ranjan");
+   Integer i=20;
 }
